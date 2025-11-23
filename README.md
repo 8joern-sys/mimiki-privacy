@@ -15,7 +15,7 @@ Bellariastrasse 55
 8038 Zürich  
 Schweiz  
 
-E-Mail: [deine@email.com]
+E-Mail: support.mimiki@proton.me
 
 ## 3. Erhobene Daten
 
@@ -65,8 +65,8 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, um sie 
 
 Bei Fragen zum Datenschutz können Sie uns unter folgender E-Mail-Adresse erreichen:
 
-**[deine@email.com]**
+**support.mimiki@proton.me**
 
 ---
 
-© 2025 [Dein Name]. Alle Rechte vorbehalten.
+© 2025 Björn Olsson. Alle Rechte vorbehalten.
