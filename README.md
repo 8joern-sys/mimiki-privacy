@@ -69,4 +69,4 @@ Bei Fragen zum Datenschutz können Sie uns unter folgender E-Mail-Adresse erreic
 
 ---
 
-© 2025 Björn Olsson. Alle Rechte vorbehalten.
+© 2026 Björn Olsson. Alle Rechte vorbehalten.
